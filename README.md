@@ -3,7 +3,7 @@
 ##Objective Use jQuery to create a "clone" that mimicks how the Twitter web application functions
 
 Use this repo as the starting point for the Twitter clone project:
-![alt text](https://github.com/SangitaJha/Twitter-Clone.git")
+![alt text]("http://127.0.0.1:5500/index.html")
 Part One
 Fork the repo
 Get familiar with the html/css
